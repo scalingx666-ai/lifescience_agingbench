@@ -1,0 +1,10 @@
+{
+  "hit_count": 12064,
+  "query_string": "caloric restriction AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
+  "first_pmcid": "PMC13674649",
+  "second_pmid": "42858138",
+  "second_doi": "10.1080/13510002.2026.2742750",
+  "third_pmid": "41533725",
+  "third_doi": "10.1093/nutrit/nuaf217",
+  "third_journal": "Nutr Rev"
+}

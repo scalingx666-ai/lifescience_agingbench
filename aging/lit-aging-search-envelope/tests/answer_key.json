@@ -1,0 +1,10 @@
+{
+  "api_version": "6.9",
+  "hit_count": 376744,
+  "query_string": "aging AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
+  "result_type": "lite",
+  "page_size": 3,
+  "first_pmid": "42024606",
+  "second_pmid": "42901771",
+  "second_journal": "Traffic"
+}

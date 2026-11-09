@@ -1,0 +1,13 @@
+{
+  "n_cohorts": 3,
+  "lag_window": "1–12",
+  "primary_metric": "bioage_accel_clean",
+  "n_cont_vars": 6,
+  "n_cat_vars": 4,
+  "star_p001": "***",
+  "star_p01": "**",
+  "star_p05": "*",
+  "cont_summary": "mean (SD)",
+  "cat_test": "chi-square",
+  "output_file": "table1_bioage_analysis.md"
+}

@@ -1,0 +1,4 @@
+﻿cohort,S1_baseline_rows,S1_baseline_ids,S2_with_exposure,S2_dropped,S3_matched_blood,S3_dropped,S4_timing_ok,S4_dropped,S5_unique_person,S5_dropped,S6_outcome_ok,S6_dropped,S7_covariates_ok,S7_dropped,n_analytic,n_edentulous,n_covariates,median_delta
+HRS,117752,29580,29580,0,12613,16967,11166,1447,11166,0,9634,1532,9526,108,9526,1158,6,10.0
+ELSA,56603,12680,12680,0,8333,4347,6411,1922,6411,0,4784,1627,4390,394,4390,551,5,3.0
+CHARLS,93057,25426,25426,0,17611,7815,11439,6172,11439,0,11388,51,11384,4,11384,863,6,4.0

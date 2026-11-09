@@ -1,0 +1,10 @@
+{
+  "hit_count": 28267,
+  "query_string": "partial reprogramming AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
+  "result_type": "core",
+  "first_pmid": "42954813",
+  "first_doi": "10.18632/aging.206431",
+  "first_page_info": "1469-1493",
+  "second_pmid": "42924487",
+  "second_pmcid": "PMC13692703"
+}

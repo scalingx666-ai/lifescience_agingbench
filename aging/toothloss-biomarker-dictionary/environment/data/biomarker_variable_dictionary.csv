@@ -1,0 +1,69 @@
+﻿cohort,marker,label,variable,unit,status,note
+HRS,albumin,白蛋白 Albumin (g/L),PALB,g/L,verified,×10 → g/L（PhenoAge 用）
+HRS,creatinine,肌酐 Creatinine (μmol/L),PCR,umol/L,verified,×88.42 → μmol/L
+HRS,glucose,空腹血糖 Fasting glucose (mmol/L),PGLUFF,mmol/L,verified,×0.05551 → mmol/L（空腹血糖）
+HRS,crp,C 反应蛋白 CRP (mg/L),PCRP,mg/L,verified,hsCRP（VBS 主文件）；PhenoAge 用 ln(×0.1 mg/dL)
+HRS,il6,白细胞介素-6 IL-6 (pg/mL),PIL6,pg/mL,verified,VBS 补充文件
+HRS,wbc,白细胞计数 WBC (10^3/μL),PWBC,10^3/uL,verified,
+HRS,lymph_pct,淋巴细胞百分比 Lymphocyte % (%),PLYMP,%,verified,
+HRS,mcv,平均红细胞体积 MCV (fL),PMCV,fL,verified,
+HRS,rdw,红细胞分布宽度 RDW (%),PRDW,%,verified,
+HRS,alp,碱性磷酸酶 ALP (U/L),PALKP2,U/L,verified,
+HRS,bun,血尿素氮 BUN (mg/dL),PBUN,mg/dL,verified,
+HRS,cystatin_c,胱抑素 C Cystatin C (mg/L),PCYSC,mg/L,verified,
+HRS,bnp,NT-proBNP (pg/mL),PNTBNPE,pg/mL,verified,NT-proBNP
+HRS,hba1c,糖化血红蛋白 HbA1c (%),PA1C_ADJ,%,verified,2016 DBS（NHANES 等效值，用 _ADJ 而非 PA1CUW）
+HRS,tnfr1,TNF 受体 1 (pg/mL),PTNFR1,pg/mL,verified,VBS 补充文件
+HRS,igf1,胰岛素样生长因子-1 IGF-1 (ng/mL),PIGF1,ng/mL,verified,VBS 补充文件
+HRS,hgb,血红蛋白 Hemoglobin (g/dL),PHGB,g/dL,verified,
+HRS,ferritin,铁蛋白 Ferritin (ng/mL),PFERTN,ng/mL,verified,
+HRS,chol,chol,PCHOL,mg/dL,verified,
+HRS,hdl,hdl,PHDLD,mg/dL,verified,
+HRS,ldl,ldl,PLDLC,mg/dL,verified,
+HRS,trig,trig,PTGF,mg/dL,verified,
+HRS,sbp,收缩压 SBP (mmHg),PI859/PI864/PI869,mmHg,verified,三次均值 → PHYSICAL_MEASURES['sbp']
+HRS,peakflow,峰流速 Peak flow (L/min),PI807/PI808/PI809,L/min,verified,三次最大值 → PHYSICAL_MEASURES['peakflow']
+HRS,grip,握力 Grip strength (kg),PI816/PI851/PI852/PI853,kg,verified,四次最大值 → PHYSICAL_MEASURES['grip']
+HRS,(队列血样),2016,,,info,HRS 2016 VBS 官方码本 V3.0（2026-10-10 一手核实）
+ELSA,crp,C 反应蛋白 CRP (mg/L),hscrp,mg/L,verified,炎症层主力
+ELSA,fibrinogen,纤维蛋白原 Fibrinogen (g/L),cfib,g/L,verified,
+ELSA,wbc,白细胞计数 WBC (10^3/μL),wbc,10^3/uL,verified,
+ELSA,hba1c,糖化血红蛋白 HbA1c (%),hba1c,%,verified,
+ELSA,glucose,空腹血糖 Fasting glucose (mmol/L),fglu,mmol/L,verified,仅空腹；非空腹为负哨兵码
+ELSA,ferritin,铁蛋白 Ferritin (ng/mL),rtin,ng/mL,verified,
+ELSA,igf1,胰岛素样生长因子-1 IGF-1 (ng/mL),igf1,nmol/L,verified,ELSA 为 nmol/L（HRS 为 ng/mL）；KDM 队内标准化，量纲不影响
+ELSA,hgb,血红蛋白 Hemoglobin (g/dL),hgb,g/dL,verified,
+ELSA,chol,chol,chol,mmol/L,verified,
+ELSA,hdl,hdl,hdl,mmol/L,verified,
+ELSA,ldl,ldl,ldl,mmol/L,verified,
+ELSA,trig,trig,trig,mmol/L,verified,
+ELSA,dheas,dheas,dheas,umol/L,verified,强衰老标志物；HRS VBS 无此项（KDM 队内拟合，允许面板不对称）
+ELSA,mch,mch,mch,pg/cell,verified,
+ELSA,(队列血样),W4(2008/9),,,info,ELSA W4 护士访视文件（wave_4_nurse_data.dta）一手核实；变量名在文件中为**小写**，哨兵码为**负值**（-1/-2/-6/-11…）
+CHARLS,crp,C 反应蛋白 CRP (mg/L),bl_crp,mg/L,verified,本队列唯一炎症标志物
+CHARLS,wbc,白细胞计数 WBC (10^3/μL),bl_wbc,10^3/uL,verified,
+CHARLS,creatinine,肌酐 Creatinine (μmol/L),bl_crea,umol/L,verified,
+CHARLS,glucose,空腹血糖 Fasting glucose (mmol/L),bl_glu,mmol/L,verified,
+CHARLS,cystatin_c,胱抑素 C Cystatin C (mg/L),bl_cysc,mg/L,verified,
+CHARLS,hba1c,糖化血红蛋白 HbA1c (%),bl_hbalc,%,verified,
+CHARLS,mcv,平均红细胞体积 MCV (fL),bl_mcv,fL,verified,
+CHARLS,bun,血尿素氮 BUN (mg/dL),bl_bun,mg/dL,verified,
+CHARLS,hgb,血红蛋白 Hemoglobin (g/dL),bl_hgb,g/dL,verified,
+CHARLS,(队列血样),2011(W1) / 2015(W3),,,info,官方《2015 Blood Data Release Note》表 1（变量名一手核实）
+NHANES,albumin,白蛋白 Albumin (g/L),LBXSAL,g/L,verified,
+NHANES,alp,碱性磷酸酶 ALP (U/L),LBXSAPSI,U/L,verified,
+NHANES,creatinine,肌酐 Creatinine (μmol/L),LBXSCR,umol/L,verified,原始 mg/dL 需 ×88.42
+NHANES,glucose,空腹血糖 Fasting glucose (mmol/L),LBXSGL,mmol/L,verified,
+NHANES,wbc,白细胞计数 WBC (10^3/μL),LBXWBCSI,10^3/uL,verified,
+NHANES,lymph_pct,淋巴细胞百分比 Lymphocyte % (%),LBXLYPCT,%,verified,
+NHANES,mcv,平均红细胞体积 MCV (fL),LBXMCVSI,fL,verified,
+NHANES,rdw,红细胞分布宽度 RDW (%),LBXRDW,%,verified,
+NHANES,crp,C 反应蛋白 CRP (mg/L),LBXHSCRP,mg/L,verified,仅 2009-10 / 2015-18，与认知期不重叠
+NHANES,(队列血样),2011-14(认知期) / 2015-18(CRP 期),,,info,真实 XPT 文件逐列读取（变量名一手核实）
+SHARE,crp,C 反应蛋白 CRP (mg/L),?,mg/L,flagged,DBS 值需官方转换公式
+SHARE,cystatin_c,胱抑素 C Cystatin C (mg/L),?,mg/L,flagged,
+SHARE,hba1c,糖化血红蛋白 HbA1c (%),?,%,flagged,
+SHARE,nfl,神经丝轻链 NfL (pg/mL),?,pg/mL,flagged,"Set2, 2026-04 新发布"
+SHARE,gfaP,胶质纤维酸性蛋白 GFAP (pg/mL),?,pg/mL,flagged,
+SHARE,ptau217,磷酸化 Tau217 (pg/mL),?,pg/mL,flagged,
+SHARE,(队列血样),W6(2015) DBS,,,info,SHARE-DBS Release 2.0.0（成分已核实；精确变量名+转换公式待注册下载）

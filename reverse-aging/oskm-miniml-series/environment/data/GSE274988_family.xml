@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<MINiML
+   xmlns="http://www.ncbi.nlm.nih.gov/geo/info/MINiML"
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation="http://www.ncbi.nlm.nih.gov/geo/info/MINiML http://www.ncbi.nlm.nih.gov/geo/info/MINiML.xsd"
+   version="0.5.0" >
+
+  <Contributor iid="contrib1">
+    <Person><First>Seunghee</First><Last>Hong</Last></Person>
+    <Email>seungheehong@yonsei.ac.kr</Email>
+    <Laboratory>IMIL</Laboratory>
+    <Department>Biochemistry</Department>
+    <Organization>Yonsei university</Organization>
+    <Address>
+      <Line>50 Yonsei-ro, Seodaemun-gu</Line>
+      <City>Seoul</City>
+      <Zip-Code>03722</Zip-Code>
+      <Country>South Korea</Country>
+    </Address>
+  </Contributor>
+
+  <Contributor iid="contrib2">
+    <Organization>GEO</Organization>
+    <Address>
+      <City></City>
+      <Country>USA</Country>
+    </Address>
+  </Contributor>
+
+  <Contributor iid="contrib3">
+    <Person><First>Beom-Ki</First><Last>Jo</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib4">
+    <Person><First>Young Seok</First><Last>Song</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib5">
+    <Person><First>Woohyun</First><Last>Song</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib6">
+    <Person><First>Hee-Ji</First><Last>Eom</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib7">
+    <Person><First>Yon Jae</First><Last>Lee</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib8">
+    <Person><First>Jumee</First><Last>Kim</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib9">
+    <Person><First>Seung-Woo</First><Last>Cho</Last></Person>
+  </Contributor>
+
+  <Contributor iid="contrib10">
+    <Person><First>Hyuk-Jin</First><Last>Cha</Last></Person>
+  </Contributor>
+
+  <Database iid="GEO">
+    <Name>Gene Expression Omnibus (GEO)</Name>
+    <Public-ID>GEO</Public-ID>
+    <Organization>NCBI NLM NIH</Organization>
+    <Web-Link>http://www.ncbi.nlm.nih.gov/geo</Web-Link>
+    <Email>geo@ncbi.nlm.nih.gov</Email>
+  </Database>
+
+  <Platform iid="GPL24247">
+    <Status database="GEO">
+      <Submission-Date>2017-11-08</Submission-Date>
+      <Release-Date>2017-11-08</Release-Date>
+      <Last-Update-Date>2019-03-08</Last-Update-Date>
+    </Status>
+    <Title>Illumina NovaSeq 6000 (Mus musculus)</Title>
+    <Accession database="GEO">GPL24247</Accession>
+    <Technology>high-throughput sequencing</Technology>
+    <Distribution>virtual</Distribution>
+    <Organism taxid="10090">Mus musculus</Organism>
+    <Manufacturer></Manufacturer>
+    <Manufacture-Protocol>
+    </Manufacture-Protocol>
+    <Contact-Ref ref="contrib2" />
+  </Platform>
+
+  <Sample iid="GSM8463923">
+    <Status database="GEO">
+      <Submission-Date>2024-08-16</Submission-Date>
+      <Release-Date>2026-07-08</Release-Date>
+      <Last-Update-Date>2026-07-08</Last-Update-Date>
+    </Status>
+    <Title>Cont, replicate 1, snRNAseq</Title>
+    <Accession database="GEO">GSM8463923</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>Whole liver</Source>
+      <Organism taxid="10090">Mus musculus</Organism>
+      <Characteristics tag="tissue">
+Whole liver
+      </Characteristics>
+      <Characteristics tag="cell type">
+hepatic cell
+      </Characteristics>
+      <Characteristics tag="genotype">
+Col1A1TetO-OSKM;ROSA26rtTA mice (iOSKM mice)
+      </Characteristics>
+      <Characteristics tag="treatment">
+Mock treatment (PBS I.P. injection)
+      </Characteristics>
+      <Molecule>nuclear RNA</Molecule>
+      <Extract-Protocol>
+Prepare nuclei using a singulator 100 system (S2 Genomics). The singulator 100 system is designed to automatically process solid tissues into suspensions of nuclei using mechanical disruption coupled with chemical dissociation in a single-use cartridge. A mass of 20~100mg of tissue is recommended. Determine the nuclei concentration using a LUNA-FL™ Automated Fluorescence Cell Counter (logos biosystems) and examine the nuclei morphology using microscopy. Libraries were prepared using the Chromium controller according to the 10x chromium Next GEM Single Cell 3’ v3.1 protocol(CG000315). Briefly, the cell suspensions were diluted in nuclease-free water to achieve a targeted cell count of 10,000. Cell suspension was mixed with master mix and loaded with Single Cell 3’V3.1 Gel Beads and Partitioning Oil into a chromium Next GEM chip G. RNA transcripts from single cells were uniquely barcoded and reverse transcribed within droplets.cDNA molecules were pooled and the cDNA pool then go through an end repair process, the  addition of a single ‘A’ base, and then ligation of the adapters. The products are then purified andenriched with PCR to create the final cDNA library. The purified libraries were quantified using    qPCR according to the qPCR Quantification Protocol Guide(KAPA) and qualified using the Agilent Technologies 4200 TapeStation(Agilent technologies). And then the libraries were sequenced usingNovaSeq platform(Illumina) according to the read length in the user guide.
+LibrarieswerepreparedusingtheChromiumcontrolleraccordingtothe10xchromium Next GEM SingleCell3’v3.1protocol(CG000315).Briefly,thecellsuspensionsweredilutedinnuclease‑free watertoachieveatargetedcellcountof10,000.Cellsuspensionwasmixedwithmastermixand loadedwithSingleCell3’V3.1GelBeadsandPartitioningOilintoachromium Next GEM chip G.RNAtranscriptsfromsinglecellswereuniquelybarcodedandreverse‑transcribedwithindroplets.cDNAmoleculeswerepooledandthecDNApoolthengothroughanendrepairprocess,the additionofasingle‘A’base,andthenligationoftheadapters.TheproductsarethenpurifiedandenrichedwithPCRtocreatethefinalcDNAlibrary.Thepurifiedlibrarieswerequantifiedusing   qPCRaccordingtotheqPCRQuantificationProtocolGuide(KAPA)andqualifiedusingtheAgilentTechnologies4200TapeStation .
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+10x Genomics
+    </Description>
+    <Data-Processing>
+cellranger (v7.0.1) and bcl2fastq (v2.20.0) software used for basecalling and demultiplexing for other samples.
+cellranger (v7.1.0) software used for alignment and aggregation (with no depth normalization)
+Assembly: mm10
+Supplementary files format and content: h5 format, containing integrated samples and read counts for each cell
+    </Data-Processing>
+    <Platform-Ref ref="GPL24247" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic single cell</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN43222943" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX25733950" />
+  </Sample>
+
+  <Sample iid="GSM8463924">
+    <Status database="GEO">
+      <Submission-Date>2024-08-16</Submission-Date>
+      <Release-Date>2026-07-08</Release-Date>
+      <Last-Update-Date>2026-07-08</Last-Update-Date>
+    </Status>
+    <Title>APAP, replicate 1, snRNAseq</Title>
+    <Accession database="GEO">GSM8463924</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>Whole liver</Source>
+      <Organism taxid="10090">Mus musculus</Organism>
+      <Characteristics tag="tissue">
+Whole liver
+      </Characteristics>
+      <Characteristics tag="cell type">
+hepatic cell
+      </Characteristics>
+      <Characteristics tag="genotype">
+Col1A1TetO-OSKM;ROSA26rtTA mice (iOSKM mice)
+      </Characteristics>
+      <Characteristics tag="treatment">
+APAP treatment (Acetaminophen 300 mg/kg I.P. injection)
+      </Characteristics>
+      <Molecule>nuclear RNA</Molecule>
+      <Extract-Protocol>
+Prepare nuclei using a singulator 100 system (S2 Genomics). The singulator 100 system is designed to automatically process solid tissues into suspensions of nuclei using mechanical disruption coupled with chemical dissociation in a single-use cartridge. A mass of 20~100mg of tissue is recommended. Determine the nuclei concentration using a LUNA-FL™ Automated Fluorescence Cell Counter (logos biosystems) and examine the nuclei morphology using microscopy. Libraries were prepared using the Chromium controller according to the 10x chromium Next GEM Single Cell 3’ v3.1 protocol(CG000315). Briefly, the cell suspensions were diluted in nuclease-free water to achieve a targeted cell count of 10,000. Cell suspension was mixed with master mix and loaded with Single Cell 3’V3.1 Gel Beads and Partitioning Oil into a chromium Next GEM chip G. RNA transcripts from single cells were uniquely barcoded and reverse transcribed within droplets.cDNA molecules were pooled and the cDNA pool then go through an end repair process, the  addition of a single ‘A’ base, and then ligation of the adapters. The products are then purified andenriched with PCR to create the final cDNA library. The purified libraries were quantified using    qPCR according to the qPCR Quantification Protocol Guide(KAPA) and qualified using the Agilent Technologies 4200 TapeStation(Agilent technologies). And then the libraries were sequenced usingNovaSeq platform(Illumina) according to the read length in the user guide.
+LibrarieswerepreparedusingtheChromiumcontrolleraccordingtothe10xchromium Next GEM SingleCell3’v3.1protocol(CG000315).Briefly,thecellsuspensionsweredilutedinnuclease‑free watertoachieveatargetedcellcountof10,000.Cellsuspensionwasmixedwithmastermixand loadedwithSingleCell3’V3.1GelBeadsandPartitioningOilintoachromium Next GEM chip G.RNAtranscriptsfromsinglecellswereuniquelybarcodedandreverse‑transcribedwithindroplets.cDNAmoleculeswerepooledandthecDNApoolthengothroughanendrepairprocess,the additionofasingle‘A’base,andthenligationoftheadapters.TheproductsarethenpurifiedandenrichedwithPCRtocreatethefinalcDNAlibrary.Thepurifiedlibrarieswerequantifiedusing   qPCRaccordingtotheqPCRQuantificationProtocolGuide(KAPA)andqualifiedusingtheAgilentTechnologies4200TapeStation .
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+10x Genomics
+    </Description>
+    <Data-Processing>
+cellranger (v7.0.1) and bcl2fastq (v2.20.0) software used for basecalling and demultiplexing for other samples.
+cellranger (v7.1.0) software used for alignment and aggregation (with no depth normalization)
+Assembly: mm10
+Supplementary files format and content: h5 format, containing integrated samples and read counts for each cell
+    </Data-Processing>
+    <Platform-Ref ref="GPL24247" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic single cell</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN43222942" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX25733951" />
+  </Sample>
+
+  <Sample iid="GSM8463925">
+    <Status database="GEO">
+      <Submission-Date>2024-08-16</Submission-Date>
+      <Release-Date>2026-07-08</Release-Date>
+      <Last-Update-Date>2026-07-08</Last-Update-Date>
+    </Status>
+    <Title>OSKM, replicate 1, snRNAseq</Title>
+    <Accession database="GEO">GSM8463925</Accession>
+    <Type>SRA</Type>
+    <Channel-Count>1</Channel-Count>
+    <Channel position="1">
+      <Source>Whole liver</Source>
+      <Organism taxid="10090">Mus musculus</Organism>
+      <Characteristics tag="tissue">
+Whole liver
+      </Characteristics>
+      <Characteristics tag="cell type">
+hepatic cell
+      </Characteristics>
+      <Characteristics tag="genotype">
+Col1A1TetO-OSKM;ROSA26rtTA mice (iOSKM mice)
+      </Characteristics>
+      <Characteristics tag="treatment">
+OSKM induction (Doxycycline 0.15 mg/kg in water)
+      </Characteristics>
+      <Molecule>nuclear RNA</Molecule>
+      <Extract-Protocol>
+Prepare nuclei using a singulator 100 system (S2 Genomics). The singulator 100 system is designed to automatically process solid tissues into suspensions of nuclei using mechanical disruption coupled with chemical dissociation in a single-use cartridge. A mass of 20~100mg of tissue is recommended. Determine the nuclei concentration using a LUNA-FL™ Automated Fluorescence Cell Counter (logos biosystems) and examine the nuclei morphology using microscopy. Libraries were prepared using the Chromium controller according to the 10x chromium Next GEM Single Cell 3’ v3.1 protocol(CG000315). Briefly, the cell suspensions were diluted in nuclease-free water to achieve a targeted cell count of 10,000. Cell suspension was mixed with master mix and loaded with Single Cell 3’V3.1 Gel Beads and Partitioning Oil into a chromium Next GEM chip G. RNA transcripts from single cells were uniquely barcoded and reverse transcribed within droplets.cDNA molecules were pooled and the cDNA pool then go through an end repair process, the  addition of a single ‘A’ base, and then ligation of the adapters. The products are then purified andenriched with PCR to create the final cDNA library. The purified libraries were quantified using    qPCR according to the qPCR Quantification Protocol Guide(KAPA) and qualified using the Agilent Technologies 4200 TapeStation(Agilent technologies). And then the libraries were sequenced usingNovaSeq platform(Illumina) according to the read length in the user guide.
+LibrarieswerepreparedusingtheChromiumcontrolleraccordingtothe10xchromium Next GEM SingleCell3’v3.1protocol(CG000315).Briefly,thecellsuspensionsweredilutedinnuclease‑free watertoachieveatargetedcellcountof10,000.Cellsuspensionwasmixedwithmastermixand loadedwithSingleCell3’V3.1GelBeadsandPartitioningOilintoachromium Next GEM chip G.RNAtranscriptsfromsinglecellswereuniquelybarcodedandreverse‑transcribedwithindroplets.cDNAmoleculeswerepooledandthecDNApoolthengothroughanendrepairprocess,the additionofasingle‘A’base,andthenligationoftheadapters.TheproductsarethenpurifiedandenrichedwithPCRtocreatethefinalcDNAlibrary.Thepurifiedlibrarieswerequantifiedusing   qPCRaccordingtotheqPCRQuantificationProtocolGuide(KAPA)andqualifiedusingtheAgilentTechnologies4200TapeStation .
+      </Extract-Protocol>
+    </Channel>
+    <Description>
+10x Genomics
+    </Description>
+    <Data-Processing>
+cellranger (v7.0.1) and bcl2fastq (v2.20.0) software used for basecalling and demultiplexing for other samples.
+cellranger (v7.1.0) software used for alignment and aggregation (with no depth normalization)
+Assembly: mm10
+Supplementary files format and content: h5 format, containing integrated samples and read counts for each cell
+    </Data-Processing>
+    <Platform-Ref ref="GPL24247" />
+    <Library-Strategy>RNA-Seq</Library-Strategy>
+    <Library-Source>transcriptomic single cell</Library-Source>
+    <Library-Selection>cDNA</Library-Selection>
+    <Instrument-Model>
+      <Predefined>Illumina NovaSeq 6000</Predefined>
+    </Instrument-Model>
+    <Contact-Ref ref="contrib1" />
+    <Supplementary-Data type="unknown">
+NONE
+    </Supplementary-Data>
+    <Relation type="BioSample" target="https://www.ncbi.nlm.nih.gov/biosample/SAMN43222941" />
+    <Relation type="SRA" target="https://www.ncbi.nlm.nih.gov/sra?term=SRX25733952" />
+  </Sample>
+
+  <Series iid="GSE274988">
+    <Status database="GEO">
+      <Submission-Date>2024-08-16</Submission-Date>
+      <Release-Date>2026-07-08</Release-Date>
+      <Last-Update-Date>2026-08-19</Last-Update-Date>
+    </Status>
+    <Title>Enhanced liver regeneration via targeted mRNA delivery for partial in vivo reprogramming</Title>
+    <Accession database="GEO">GSE274988</Accession>
+    <Pubmed-ID>42248561</Pubmed-ID>
+    <Summary>
+Recent studies suggest that injury-induced dedifferentiation, which leads to the formation of ‘injury-responsive cells’, contributes significantly to tissue repair across various organs, including the liver. Utilizing Yamanaka factors (Oct4, Sox2, Klf4, and c-Myc: OSKM) for in vivo partial reprogramming generates ‘injury-responsive cells’ in the intestine, mirroring those derived from injury-induced dedifferentiation. Thus, the transgene induction of OSKM or viral delivery of Oct4, Sox2, and Klf4 shows promise in facilitating tissue regeneration in the intestine, liver, skeletal muscle, and retina. Herein, we demonstrated that transient OSKM induction produces two distinct liver progenitor-like cell populations. One of these populations resembles liver progenitor-like cells (LPLCs) generated by acute acetaminophen (APAP) injury without triggering immune responses. To explore in vivo reprogramming as a viable strategy for tissue regeneration, we employed lipid nanoparticles (LNP) carrying OSKM mRNA (OSKM-mRNA-LNP) to stimulate LPLCs formation. Notably, the production of Sox9+ LPLCs, and OSKM-induced dedifferentiation, was closely correlated with successful tissue regeneration in the liver post APAP injury. Thus, the OSKM-mRNA-LNP approach represents a promising therapeutic intervention for the repair of acute liver injuries.
+    </Summary>
+    <Overall-Design>
+We used whole liver samples for single nucleus RNA sequencing. There were control, APAP and OSKM groups. APAP livers were sampled 48 h after 300 mg/kg APAP I.P. injection. OSKM livers were sampled 72 h after 0. 15 mg/kg doxycycline administration. Whole samples were prepared using reprogrammable mice to minimize the genetic background effect.
+    </Overall-Design>
+    <Type>Expression profiling by high throughput sequencing</Type>
+    <Contributor-Ref ref="contrib3" position="1" />
+    <Contributor-Ref ref="contrib4" position="2" />
+    <Contributor-Ref ref="contrib5" position="3" />
+    <Contributor-Ref ref="contrib6" position="4" />
+    <Contributor-Ref ref="contrib7" position="5" />
+    <Contributor-Ref ref="contrib8" position="6" />
+    <Contributor-Ref ref="contrib1" position="7" />
+    <Contributor-Ref ref="contrib9" position="8" />
+    <Contributor-Ref ref="contrib10" position="9" />
+    <Contact-Ref ref="contrib1" />
+    <Sample-Ref ref="GSM8463923" />
+    <Sample-Ref ref="GSM8463924" />
+    <Sample-Ref ref="GSM8463925" />
+    <Supplementary-Data type="H5">
+ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE274nnn/GSE274988/suppl/GSE274988_filtered_feature_bc_matrix.h5
+    </Supplementary-Data>
+    <Relation type="BioProject" target="https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1148909" />
+  </Series>
+
+</MINiML>

@@ -1,0 +1,10 @@
+{
+  "hit_count": 129,
+  "query_string": "geroprotector AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
+  "first_pmid": "42013268",
+  "first_doi": "10.1109/jbhi.2026.3686054",
+  "second_pmid": "42792256",
+  "second_pmcid": "PMC13603762",
+  "third_pmid": "42789132",
+  "third_journal": "Biogerontology"
+}

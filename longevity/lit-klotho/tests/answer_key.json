@@ -1,0 +1,10 @@
+{
+  "hit_count": 4186,
+  "query_string": "klotho AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
+  "first_pmid": "42830439",
+  "first_doi": "10.1111/apha.70325",
+  "first_journal": "Acta Physiol (Oxf)",
+  "second_pmid": "42942027",
+  "second_doi": "10.3390/ijms27209257",
+  "third_journal": "Arch Endocrinol Metab"
+}

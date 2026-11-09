@@ -1,0 +1,10 @@
+{
+  "hit_count": 23991,
+  "query_string": "telomere AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
+  "first_pmid": "42935766",
+  "first_pmcid": "PMC13697237",
+  "second_pmid": "42944605",
+  "second_doi": "10.1097/mop.0000000000001628",
+  "third_pmcid": "PMC13662104",
+  "third_journal": "Front Med (Lausanne)"
+}

@@ -1,0 +1,11 @@
+{
+  "release_date": "2026-10-10",
+  "version": "1.0.0",
+  "n_ageing_cohorts": 3,
+  "cross_sectional_extension": "NHANES",
+  "biological_age_script": "step11_biologicage.py",
+  "main_analysis_script": "step12_bioage_outcome.py",
+  "meta_analysis_script": "step4_meta.py",
+  "robust_standard_errors": "HC3",
+  "requires_r": false
+}

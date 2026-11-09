@@ -1,0 +1,10 @@
+{
+  "api_version": "6.9",
+  "hit_count": 68018,
+  "query_string": "longevity AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
+  "result_type": "lite",
+  "page_size": 3,
+  "cursor_mark": "*",
+  "synonym_enabled": false,
+  "first_result_id": "42904714"
+}

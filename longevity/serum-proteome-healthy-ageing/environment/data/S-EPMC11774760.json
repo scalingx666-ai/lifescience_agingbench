@@ -1,0 +1,407 @@
+{
+  "accno" : "S-EPMC11774760",
+  "attributes" : [ {
+    "name" : "DataSource",
+    "value" : "Europe PMC"
+  }, {
+    "name" : "Title",
+    "value" : "Longitudinal serum proteome mapping reveals biomarkers for healthy ageing and related cardiometabolic diseases."
+  }, {
+    "name" : "ReleaseDate",
+    "value" : "2025-01-01"
+  }, {
+    "name" : "AttachTo",
+    "value" : "EuropePMC"
+  } ],
+  "section" : {
+    "type" : "Study",
+    "attributes" : [ {
+      "name" : "Title",
+      "value" : "Longitudinal serum proteome mapping reveals biomarkers for healthy ageing and related cardiometabolic diseases."
+    }, {
+      "name" : "Abstract",
+      "value" : "The blood proteome contains biomarkers of ageing and age-associated diseases, but such markers are rarely validated longitudinally. Here we map the longitudinal proteome in 7,565 serum samples from a cohort of 3,796 middle-aged and elderly adults across three time points over a 9-year follow-up period. We pinpoint 86 ageing-related proteins that exhibit signatures associated with 32 clinical traits and the incidence of 14 major ageing-related chronic diseases. Leveraging a machine-learning model, we pick 22 of these proteins to generate a proteomic healthy ageing score (PHAS), capable of predicting the incidence of cardiometabolic diseases. We further identify the gut microbiota as a modifiable factor influencing the PHAS. Our data constitute a valuable resource and offer useful insights into the roles of serum proteins in ageing and age-associated cardiometabolic diseases, providing potential targets for intervention with therapeutics to promote healthy ageing."
+    } ],
+    "files" : [ {
+      "path" : "42255_2024_1185_MOESM1_ESM.pdf",
+      "size" : 2514935,
+      "type" : "file"
+    }, {
+      "path" : "42255_2024_1185_MOESM2_ESM.xlsx",
+      "size" : 607993,
+      "type" : "file"
+    }, {
+      "path" : "42255_2024_1185_MOESM3_ESM.xlsx",
+      "size" : 101920,
+      "type" : "file"
+    }, {
+      "path" : "42255_2024_1185_MOESM4_ESM.xlsx",
+      "size" : 156018,
+      "type" : "file"
+    }, {
+      "path" : "42255_2024_1185_MOESM5_ESM.xlsx",
+      "size" : 24717,
+      "type" : "file"
+    }, {
+      "path" : "42255_2024_1185_MOESM6_ESM.xlsx",
+      "size" : 17990,
+      "type" : "file"
+    }, {
+      "path" : "42255_2024_1185_MOESM7_ESM.xlsx",
+      "size" : 133388,
+      "type" : "file"
+    }, {
+      "path" : "42255_2024_1185_MOESM8_ESM.xlsx",
+      "size" : 46085,
+      "type" : "file"
+    } ],
+    "links" : [ [ {
+      "url" : "NCT03179657",
+      "attributes" : [ {
+        "name" : "Type",
+        "value" : "nct"
+      } ]
+    } ] ],
+    "subsections" : [ {
+      "type" : "Funding",
+      "attributes" : [ {
+        "name" : "Agency",
+        "value" : "National Natural Science Foundation of China (National Science Foundation of China)"
+      }, {
+        "name" : "grant_id",
+        "value" : "82204161"
+      } ]
+    }, {
+      "type" : "Funding",
+      "attributes" : [ {
+        "name" : "Agency",
+        "value" : "National Natural Science Foundation of China (National Science Foundation of China)"
+      }, {
+        "name" : "grant_id",
+        "value" : "82073546"
+      } ]
+    }, {
+      "type" : "Funding",
+      "attributes" : [ {
+        "name" : "Agency",
+        "value" : "National Natural Science Foundation of China (National Science Foundation of China)"
+      }, {
+        "name" : "grant_id",
+        "value" : "82073529"
+      } ]
+    }, {
+      "type" : "Funding",
+      "attributes" : [ {
+        "name" : "Agency",
+        "value" : "National Natural Science Foundation of China (National Science Foundation of China)"
+      }, {
+        "name" : "grant_id",
+        "value" : "82103826"
+      } ]
+    }, {
+      "type" : "Funding",
+      "attributes" : [ {
+        "name" : "Agency",
+        "value" : "National Natural Science Foundation of China (National Science Foundation of China)"
+      }, {
+        "name" : "grant_id",
+        "value" : "82103828"
+      } ]
+    }, {
+      "type" : "Publication",
+      "attributes" : [ {
+        "name" : "Journal",
+        "value" : "Nature metabolism"
+      }, {
+        "name" : "Volume",
+        "value" : "7(1)"
+      }, {
+        "name" : "Pages",
+        "value" : "166-181"
+      }, {
+        "name" : "Publication date",
+        "value" : "2025 Jan"
+      } ],
+      "links" : [ [ {
+        "url" : "10.1038/s42255-024-01185-7",
+        "attributes" : [ {
+          "name" : "Type",
+          "value" : "DOI"
+        } ]
+      }, {
+        "url" : "PMC11774760",
+        "attributes" : [ {
+          "name" : "Type",
+          "value" : "PMC"
+        } ]
+      }, {
+        "url" : "39805987",
+        "attributes" : [ {
+          "name" : "Type",
+          "value" : "PMID"
+        } ]
+      } ] ]
+    }, {
+      "accno" : "a1",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Tang J"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a2",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Yue L"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a3",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Xu Y"
+      }, {
+        "name" : "affiliation",
+        "value" : "o2",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a4",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Xu F"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a5",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Cai X"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a6",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Fu Y"
+      }, {
+        "name" : "ORCID",
+        "value" : "0000-0002-3955-9376"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a7",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Miao Z"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a8",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Gou W"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a9",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Hu W"
+      }, {
+        "name" : "affiliation",
+        "value" : "o2",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a10",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Xue Z"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a11",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Deng K"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a12",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Shen L"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a13",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Jiang Z"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a14",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Shuai M"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a15",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Liang X"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a16",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Xiao C"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a17",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Xie Y"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a18",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Guo T"
+      }, {
+        "name" : "affiliation",
+        "value" : "o3",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a19",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Chen YM"
+      }, {
+        "name" : "affiliation",
+        "value" : "o4",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "a20",
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Zheng JS"
+      }, {
+        "name" : "affiliation",
+        "value" : "o5",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "o2",
+      "type" : "Organization",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Guangdong Provincial Key Laboratory of Food, Nutrition and Health, Department of Epidemiology, School of Public Health, Sun Yat-sen University, Guangzhou, China"
+      } ]
+    }, {
+      "accno" : "o4",
+      "type" : "Organization",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Guangdong Provincial Key Laboratory of Food, Nutrition and Health, Department of Epidemiology, School of Public Health, Sun Yat-sen University, Guangzhou, China. chenyum@mail.sysu.edu.cn"
+      } ]
+    }, {
+      "accno" : "o1",
+      "type" : "Organization",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Westlake Center for Intelligent Proteomics, Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, China"
+      } ]
+    }, {
+      "accno" : "o3",
+      "type" : "Organization",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Westlake Center for Intelligent Proteomics, Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, China. guotiannan@westlake.edu.cn"
+      } ]
+    }, {
+      "accno" : "o5",
+      "type" : "Organization",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Westlake Center for Intelligent Proteomics, Westlake Laboratory of Life Sciences and Biomedicine, Hangzhou, China. zhengjusheng@westlake.edu.cn"
+      } ]
+    }, {
+      "type" : "ExtractedLinks"
+    } ]
+  },
+  "type" : "submission"
+}

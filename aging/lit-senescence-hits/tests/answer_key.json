@@ -1,0 +1,10 @@
+{
+  "api_version": "6.9",
+  "hit_count": 146454,
+  "query_string": "senescence AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
+  "result_type": "lite",
+  "page_size": 3,
+  "first_source": "MED",
+  "first_id": "42974193",
+  "first_journal": "J Inflamm Res"
+}
