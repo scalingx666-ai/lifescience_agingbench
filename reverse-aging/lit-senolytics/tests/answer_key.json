@@ -1,10 +1,1 @@
-{
-  "hit_count": 2814,
-  "first_pmid": "42841582",
-  "first_doi": "10.1111/acel.70759",
-  "first_journal": "Aging Cell",
-  "second_pmcid": "PMC13644388",
-  "second_journal": "Aging Cell",
-  "third_pmid": "42775553",
-  "third_doi": "10.1080/14728222.2026.2738910"
-}
+{"n_docs": 3.0, "doc0_len": 198.0, "doc1_len": 193.0, "doc2_len": 123.0, "combined_len": 514.0, "c0": 149.0, "c1": 147.0, "c2": 97.0, "c_xy": 292.0, "ncd_01": 0.9731543624161074, "ncd_02": 0.9731543624161074, "ncd_12": 0.9727891156462585, "ncd_mean": 0.9730326134928244, "ncd_sd": 0.00017217897851111563, "phrases_total": 385.0, "phrases_mean_len": 1.335064935064935, "phrases_sd_len": 0.6360932370125043, "phrases_max_len": 5.0, "phrases_entropy": 0.7498520808451591, "phrases_gini": 0.19224821870736267, "compress_ratio": 0.7490272373540856, "repeat_frac": 0.2597402597402597, "char_entropy": 2.9594154331626656, "distinct_chars": 30.0, "lz76_complexity": 218.0}

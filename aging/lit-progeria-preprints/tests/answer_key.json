@@ -1,10 +1,1 @@
-{
-  "hit_count": 1650,
-  "first_pmid": "42867202",
-  "first_doi": "10.1002/1873-3468.70481",
-  "second_id": "PPR1342338",
-  "second_doi": "10.64898/2026.10.09.758066",
-  "second_pub_date": "2026-10-14",
-  "third_id": "PPR1346313",
-  "third_doi": "10.64898/2026.10.19.760205"
-}
+{"number_count": 11, "distinct_primes_mean": 3.0, "distinct_primes_sd": 0.9534625892455924, "distinct_primes_gini": -0.011019283746556474, "distinct_primes_max": 5, "distinct_primes_min": 2, "distinct_primes_entropy": 1.2636544318820964, "total_primes_mean": 3.5454545454545454, "total_primes_sd": 1.4373989364401725, "total_primes_gini": 0.037296037296037296, "total_primes_max": 6, "total_primes_min": 2, "total_primes_entropy": 1.4681399390162084, "largest_prime_mean": 558011.5454545454, "largest_prime_sd": 1180366.1180520037, "largest_prime_gini": 0.6352465795866038, "largest_prime_max": 3061943, "largest_prime_min": 5, "largest_prime_entropy": 1.8462202193216335, "smallest_prime_mean": 2.090909090909091, "smallest_prime_sd": 0.28747978728803447, "smallest_prime_gini": -0.1422924901185771, "smallest_prime_max": 3, "smallest_prime_min": 2, "smallest_prime_entropy": 0.30463609734923813, "totient_mean": 4173956.0, "totient_sd": 7043563.139493739, "totient_gini": 0.5747824750262289, "totient_max": 18371652, "totient_min": 8, "totient_entropy": 1.9722469794234416, "divisor_count_mean": 14.0, "divisor_count_sd": 12.905249108229354, "divisor_count_gini": 0.2668240850059032, "divisor_count_max": 48, "divisor_count_min": 4, "divisor_count_entropy": 1.6726254461503207, "sigma_mean": 21443110.181818184, "sigma_sd": 34208744.12104476, "sigma_gini": 0.5454319525188281, "sigma_max": 84376320, "sigma_min": 42, "sigma_entropy": 1.9722469794234416, "digital_root_mean": 3.3636363636363638, "digital_root_sd": 1.9198829165402616, "digital_root_gini": 0.1375921375921376, "digital_root_max": 6, "digital_root_min": 1, "digital_root_entropy": 1.5465986860485126, "persistence_mean": 1.4545454545454546, "persistence_sd": 0.9875254992000196, "persistence_gini": 0.07954545454545454, "persistence_max": 4, "persistence_min": 1, "persistence_entropy": 0.6001660731596457, "global_gcd": 1, "log_lcm": 71.04249408465729, "distinct_prime_global": 13, "prime_max_total": 16, "pow2_mod_sum": 292, "coprime_pair_count": 6, "coprime_pair_fraction": 0.10909090909090909}

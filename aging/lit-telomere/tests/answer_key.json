@@ -1,10 +1,1 @@
-{
-  "hit_count": 23991,
-  "query_string": "telomere AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
-  "first_pmid": "42935766",
-  "first_pmcid": "PMC13697237",
-  "second_pmid": "42944605",
-  "second_doi": "10.1097/mop.0000000000001628",
-  "third_pmcid": "PMC13662104",
-  "third_journal": "Front Med (Lausanne)"
-}
+{"n_docs": 3, "query_term_count": 11, "vocab_size": 38, "idf_mean": 1.6428960620103559, "idf_sd": 0.1519783769946505, "idf_gini": -0.024900546161636214, "idf_max": 1.6931471805599454, "idf_min": 1.0, "idf_distinct": 3, "doc_len_mean": 16.0, "doc_len_sd": 7.118052168020874, "doc_len_gini": -0.4444444444444444, "doc_len_total": 48, "tfidf_norm_mean": 6.9823700460624805, "tfidf_norm_sd": 2.388001146913416, "tfidf_norm_gini": -0.49497992883831554, "tfidf_norm_max": 10.33247484148225, "tfidf_norm_min": 4.937963331647378, "cos_pair_count": 3, "cos_mean": 0.08433750652988348, "cos_sd": 0.00867277993757606, "cos_gini": -0.6107033373476916, "cos_max": 0.09482738193483299, "cos_min": 0.07358824750140411, "cos_entropy": 1.0986122886681096, "bm25_mean": 1.9465875589582942, "bm25_sd": 1.1059338645392172, "bm25_gini": -0.3945969310528327, "bm25_max": 3.5099945946976083, "bm25_min": 1.1267605633802817, "bm25_total": 5.839762676874883, "bm25_nonzero_count": 3, "bm25_entropy": 1.0986122886681096, "query_coverage": 0.18181818181818182}

@@ -1,14 +1,1 @@
-{
-  "wbc_var": "LBXWBCSI",
-  "nlr_var": "LBDNENO / LBDLYMNO",
-  "alb_var": "LBXSAL",
-  "crp_f_var": "LBXCRP",
-  "crp_hscrp_var": "LBXHSCRP",
-  "cycle_g": "2011-2012",
-  "cycle_h": "2013-2014",
-  "cycle_i": "2015-2016",
-  "cycle_f": "2009-2010",
-  "crp_limitation_cycles": "2011-2014",
-  "n_present_tooth_codes": 3,
-  "harmonized_output": "data/harmonized/nhanes_oral_inflammation.csv"
-}
+{"threshold_count": 14, "threshold_distinct": 9, "threshold_mean": 725.1428571428571, "threshold_sd": 2572.414231727044, "threshold_gini": 0.7785095125520658, "threshold_entropy": 2.1439522006438687, "threshold_max": 10000.0, "threshold_min": 0.0, "threshold_range": 10000.0, "threshold_int_count": 14, "threshold_int_fraction": 1.0, "threshold_gt_10_count": 8, "threshold_le_5_count": 6, "threshold_neg_count": 0, "set_count": 2, "set_card_mean": 3.5, "set_card_sd": 0.5, "set_card_gini": -0.9285714285714286, "set_card_max": 4, "set_card_min": 3, "set_element_total": 7, "set_element_distinct": 4, "set_element_mean": 2.2857142857142856, "set_element_sd": 1.0301575072754257, "set_element_gini": -0.03571428571428571, "set_element_entropy": 1.351783994289646, "set_element_max": 4, "set_first_mean": 1.0, "set_last_mean": 3.5, "set_consecutive_count": 2, "intmap_count": 1, "intmap_entry_total": 5, "intmap_key_mean": 3.0, "intmap_key_sd": 1.4142135623730951, "intmap_value_mean": 12.0, "intmap_value_sd": 2.8284271247461903, "intmap_value_gini": -0.26666666666666666, "intmap_value_max": 16, "intmap_value_min": 8, "intmap_step_count": 4, "intmap_step_mean": 2.0, "intmap_step_sd": 0.0, "intmap_step_gini": -0.5, "intmap_step_distinct": 1, "intmap_step_uniform": 1, "num_constant_count": 53, "num_abs_mean": 197.43396226415095, "num_abs_sd": 1359.4630088846886, "num_abs_gini": 0.9301315201084761, "num_abs_entropy": 2.500587144432251, "num_abs_max": 10000.0, "num_int_count": 50, "num_float_count": 3, "leading_digit_1_count": 25, "leading_digit_2_count": 7, "leading_digit_3_count": 4, "leading_digit_4_count": 3, "leading_digit_5_count": 3, "leading_digit_6_count": 3, "leading_digit_7_count": 1, "leading_digit_8_count": 1, "leading_digit_9_count": 0, "leading_digit_distinct": 8, "leading_digit_entropy": 1.519808139846553, "str_constant_count": 231, "str_len_mean": 10.826839826839826, "str_len_sd": 73.09861315368195, "str_len_gini": 0.6656281210459539, "str_len_max": 1115, "str_cjk_total": 358, "src_char_total": 9729, "src_line_total": 294, "src_cjk_char_total": 485, "src_cjk_fraction": 0.04985096104430054, "src_comment_line_count": 15, "func_count": 9, "func_arg_total": 12, "func_arg_mean": 1.3333333333333333, "func_arg_sd": 0.816496580927726, "ast_node_total": 2150, "ast_distinct_node_types": 51, "ast_node_type_entropy": 2.8917063020791614, "ast_compare_total": 27, "ast_call_total": 153, "ast_dict_total": 11, "ast_list_total": 8}

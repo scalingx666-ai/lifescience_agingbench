@@ -1,10 +1,1 @@
-{
-  "hit_count": 12064,
-  "query_string": "caloric restriction AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
-  "first_pmcid": "PMC13674649",
-  "second_pmid": "42858138",
-  "second_doi": "10.1080/13510002.2026.2742750",
-  "third_pmid": "41533725",
-  "third_doi": "10.1093/nutrit/nuaf217",
-  "third_journal": "Nutr Rev"
-}
+{"author_count": 33, "author_distinct": 32, "author_len_mean": 6.818181818181818, "author_len_sd": 2.095515347832784, "author_len_gini": 0.11205387205387206, "pair_count": 528, "lcs_mean": 1.7765151515151516, "lcs_sd": 0.9901300686277203, "lcs_gini": 0.2894254377463333, "lcs_max": 7, "lcs_min": 0, "lcs_distinct": 7, "lcs_entropy": 1.3559953218547203, "jaro_mean": 0.4074730439313772, "jaro_sd": 0.21635558047544548, "jaro_gini": 0.2714072993156569, "jaro_max": 1, "jaro_min": 0, "jaro_distinct": 127, "jaro_entropy": 4.1123135572794505, "mst_edge_count": 32, "mst_weight": 10.11468253968254, "mst_edge_mean": 0.3160838293650794, "mst_edge_sd": 0.07374157603431483, "mst_edge_gini": 0.04965254619639841, "mst_edge_max": 0.4126984126984127, "mst_edge_min": 0, "mst_edge_entropy": 3.0594891092421155, "close_pair_count": 12, "close_pair_fraction": 0.022727272727272728, "component_count": 22, "component_mean_size": 1.5}

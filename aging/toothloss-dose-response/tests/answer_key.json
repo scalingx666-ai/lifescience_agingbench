@@ -1,10 +1,17 @@
 {
-  "wbc_q2_vs_q1_beta": 0.2348,
-  "wbc_q2_vs_q1_p": 0.008072657886623385,
-  "wbc_trend_beta": -0.1971,
-  "wbc_trend_p": 5.615112206718755e-12,
-  "wbc_trend_n": 4667,
-  "alb_trend_beta": 0.0274,
-  "nlr_trend_beta": -0.0527,
-  "wbc_q5_vs_q1_ci_high": -0.2018
+  "alb_trend_ci_width": 0.016199999999999996,
+  "n_negative_trends": 2,
+  "n_outcomes": 3,
+  "n_rows": 15,
+  "overall_min_p_neglog10": 11.250641560814476,
+  "stouffer_neglog10p": 1.0939874059909804,
+  "stouffer_z": -1.7475603875445498,
+  "trend_beta_spread": 0.2245,
+  "wbc_contrast_wls_neglog10p": 8.568164186566824,
+  "wbc_contrast_wls_slope": -0.24312387919555717,
+  "wbc_max_abs_contrast": 0.3993,
+  "wbc_trend_ci_implied_se": 0.02859746426062685,
+  "wbc_trend_p_recon_neglog10": 11.258335874761729,
+  "wbc_trend_se_gap": -2.535739373150936e-06,
+  "wbc_trend_z": -6.891608391608392
 }

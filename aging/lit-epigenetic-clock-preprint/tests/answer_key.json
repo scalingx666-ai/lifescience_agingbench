@@ -1,10 +1,1 @@
-{
-  "hit_count": 6220,
-  "first_source": "PPR",
-  "first_id": "PPR1351724",
-  "first_doi": "10.64898/2026.10.23.761432",
-  "first_pub_date": "2026-10-27",
-  "second_pmid": "42850743",
-  "second_doi": "10.1111/acel.70756",
-  "second_journal": "Aging Cell"
-}
+{"token_total": 29, "type_count": 22, "freq_max": 3, "freq_mean": 1.3181818181818181, "freq_sd": 0.5548434370788047, "freq_gini": 0.09247648902821316, "freq_entropy": 0.7088329479943613, "hapax_count": 16, "hapax_fraction": 0.7272727272727273, "yule_k": 190.24970273483947, "simpson_index": 0.0535077288941736, "zipf_intercept": 1.060507918751847, "zipf_slope": -0.3871749253407096, "zipf_r2": 0.7992841898931402, "zipf_n_pairs": 22, "heaps_intercept": 0.13987859754087717, "heaps_slope": 0.8807241215468639, "heaps_r2": 0.9943612838034683, "heaps_steps": 29, "spearman_freq_len": -0.09802510328833426, "length_mean": 6.0, "length_sd": 3.2905297760233916, "length_gini": 0.24177566389219182, "top1_share": 0.10344827586206896, "top3_share": 0.2413793103448276, "top5_share": 0.3793103448275862}

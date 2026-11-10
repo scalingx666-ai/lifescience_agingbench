@@ -1,10 +1,1 @@
-{
-  "hit_count": 3608,
-  "first_pmid": "42772222",
-  "first_journal": "Nurs Outlook",
-  "second_pmid": "42965648",
-  "second_pub_type": "published erratum",
-  "second_doi": "10.1007/s11357-026-02612-1",
-  "third_pmid": "42965647",
-  "third_pub_date": "2026-10-31"
-}
+{"stream_len": 557, "work_len": 558, "n_suffixes": 558, "sa_first_suffix_start": 557, "sa_last_suffix_start": 483, "bwt_runs": 419, "bwt_max_run": 7, "bwt_runs_mean_len": 1.331742243436754, "bwt_entropy": 3.0012933103052566, "bwt_distinct_chars": 31, "lcp_sum": 1394, "lcp_mean": 2.502692998204668, "lcp_sd": 2.5923675988388166, "lcp_max": 16, "lcp_gini": 0.4447452405667789, "lcp_nonzero": 527, "longest_repeat": 16, "distinct_substrings": 154567, "char_entropy": 3.0012933103052566, "distinct_chars": 31, "bigram_types": 228, "trigram_types": 409, "bigram_entropy": 5.072045649350719, "trigram_entropy": 5.8937351710507215, "hapax_bigram": 117, "hapax_trigram": 309, "mtf_cost": 3975, "mtf_cost_mean": 7.123655913978495, "compress_ratio": 0.7508960573476703}

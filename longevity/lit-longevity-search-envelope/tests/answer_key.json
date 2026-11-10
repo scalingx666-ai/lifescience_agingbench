@@ -1,10 +1,1 @@
-{
-  "api_version": "6.9",
-  "hit_count": 68018,
-  "query_string": "longevity AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
-  "result_type": "lite",
-  "page_size": 3,
-  "cursor_mark": "*",
-  "synonym_enabled": false,
-  "first_result_id": "42904714"
-}
+{"n_subjects": 12, "time_mean": 33.25, "time_sd": 12.504165972453606, "time_max": 53, "time_min": 13, "time_gini": 0.04866332497911445, "total_events": 4, "censored": 8, "event_rate": 0.3333333333333333, "n_event_times": 4, "km_final_survival": 0.6666666666666666, "km_survival_mean": 0.7916666666666666, "km_survival_min": 0.6666666666666666, "nelson_aalen_cumhaz": 0.3853535353535354, "risk_mean": 10.5, "risk_max": 12, "risk_min": 9, "median_survival": 53, "rmst": 21.5, "greenwood_variance": 0.041666666666666664, "logrank_observed_g1": 2, "logrank_expected_g1": 2.201010101010101, "logrank_variance": 0.9848474645444343, "logrank_chisq": 0.04102671953040091, "exponential_lambda": 0.010025062656641603, "exponential_mean": 99.75, "exponential_median": 69.14143126085455, "poisson_intensity": 0.07547169811320754, "group1_size": 6, "group0_size": 6}

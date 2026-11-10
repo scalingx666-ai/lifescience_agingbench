@@ -1,10 +1,1 @@
-{
-  "hit_count": 6446,
-  "first_doi": "10.17085/apm.26849",
-  "first_journal": "Anesth Pain Med (Seoul)",
-  "second_journal": "Rheumatology (Oxford)",
-  "second_doi": "10.1093/rheumatology/keag480",
-  "third_journal": "MedComm (2020)",
-  "third_doi": "10.1002/mco2.71082",
-  "third_pub_date": "2026-10-23"
-}
+{"node_count": 20, "edge_count": 91, "weight_total": 252, "graph_density": 0.455, "degree_total": 482, "degree_mean": 24.1, "degree_sd": 17.671728834497205, "degree_gini": 0.3066390041493776, "degree_entropy": 2.7184734013300127, "degree_max": 56, "degree_min": 2, "weight_mean": 2.7542857142857144, "weight_sd": 2.530312556316523, "weight_gini": 0.4153171310017783, "weight_max": 14, "weight_min": 1, "weight_distinct": 11, "pair_count": 380, "unreachable_count": 0, "shortest_mean": 0.6337559808612437, "shortest_sd": 0.3884961544228522, "shortest_gini": 0.32801399393946223, "shortest_max": 2.0, "shortest_min": 0.07142857142857142, "shortest_total": 240.8272727272726, "shortest_entropy": 4.05252489537129, "graph_diameter": 2.0, "graph_radius": 1.0, "eccentricity_mean": 1.3703282828282828, "eccentricity_sd": 0.27190907168679906, "eccentricity_gini": 0.0033848442168721883, "eccentricity_max": 2.0, "eccentricity_min": 1.0}

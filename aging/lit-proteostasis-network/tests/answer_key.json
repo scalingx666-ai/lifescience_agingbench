@@ -1,10 +1,1 @@
-{
-  "hit_count": 19398,
-  "query_string": "proteostasis AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
-  "first_pmid": "42946668",
-  "first_doi": "10.1080/15548627.2026.2741033",
-  "first_journal": "Autophagy",
-  "second_pmid": "42907395",
-  "second_doi": "10.1247/csf.26039",
-  "third_journal": "Exp Gerontol"
-}
+{"total_chars": 325, "symbol_count": 23, "entropy_bits": 4.082123121280113, "huffman_wpl": 1336, "huffman_avg_len": 4.110769230769231, "huffman_efficiency": 0.9930314479161952, "huffman_redundancy": 0.0286461094891175, "fixed_len_bits": 5, "compression_ratio": 0.8221538461538461, "fixed_bits_total": 1625, "savings_fraction": 0.17784615384615388, "code_len_mean": 5.217391304347826, "code_len_sd": 1.5310275531877402, "code_len_gini": 0.07753623188405798, "code_len_max": 8, "code_len_min": 3, "code_len_entropy": 1.6687033327550642, "code_len_distinct": 6, "freq_mean": 14.130434782608695, "freq_sd": 10.923864373674835, "freq_gini": 0.342742474916388, "freq_max": 39, "freq_min": 1, "freq_entropy": 2.690828621511594, "kraft_sum": 1.0}

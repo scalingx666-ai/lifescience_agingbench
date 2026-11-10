@@ -1,10 +1,1 @@
-{
-  "hit_count": 466340,
-  "query_string": "biological age AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
-  "second_pmid": "42934311",
-  "second_pmcid": "PMC13710966",
-  "second_doi": "10.1038/s41514-026-00524-0",
-  "second_journal": "NPJ Aging",
-  "third_journal": "Epigenomes",
-  "third_pub_date": "2026-10-19"
-}
+{"stream_len": 413, "val_sum": 36391, "val_mean": 88.1138014527845, "val_sd": 26.417932282478983, "n_rows": 8, "n_cols": 6, "x_frobenius": 496.5229098440474, "colmean_max": 78.25, "colmean_min": 61.125, "colmean_mean": 69.9375, "colmean_sd": 5.398567518332988, "centered_frobenius": 101.76381970032375, "gram_trace": 1479.4107142857144, "gram_frobenius": 820.3653120511842, "gram_diag_energy": 562100.0015943878, "gram_offdiag_energy": 55449.62181122448, "gram_diag_ratio": 0.8352163922758667, "jacobi_sweeps": 52, "eig_max": 672.8013591834056, "eig_min": 1.9610625204299765, "eig_sum": 1479.410714285715, "eig_mean": 246.5684523809525, "eig_sd": 226.65069856485076, "eig_gini": 0.16513432402424885, "eig_sq_sum": 672999.2452168372, "eig_range": 670.8402966629756, "cond_number": 343.08001513174054, "pca1_share": 0.4547765895478496, "pca2_share": 0.2392601895751816, "pca3_share": 0.17052121094537012, "pca_cum_to_90": 4, "participation_ratio": 3.2520928917805763, "spectral_entropy": 1.3280365994602594, "effective_rank_expH": 3.7736269680244026, "det_gram": 469219858817.7028}

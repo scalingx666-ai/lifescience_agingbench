@@ -1,10 +1,1 @@
-{
-  "hit_count": 12358,
-  "first_pmid": "42970312",
-  "first_doi": "10.14336/ad.2026.0890",
-  "first_journal": "Aging Dis",
-  "second_pmcid": "PMC13684318",
-  "second_doi": "10.1111/acel.70745",
-  "third_pmcid": "PMC13643272",
-  "third_journal": "Front Nutr"
-}
+{"entity_total": 8, "entity_distinct": 2, "entity_freq_entropy": -0.0, "entity_freq_gini": 0.0, "entity_char_total": 32, "entity_char_mean": 4.0, "html_tag_total": 0, "html_tag_removed_count": 0, "title_raw_char_total": 417, "title_clean_char_total": 417, "title_clean_char_mean": 139.0, "title_clean_char_sd": 27.313000567495326, "title_clean_char_gini": 0.10071942446043165, "title_clean_word_total": 46, "title_clean_word_mean": 15.333333333333334, "cursor_char_len": 24, "cursor_pad_len": 0, "cursor_equals_total": 2, "cursor_plus_total": 0, "cursor_slash_total": 0, "cursor_alnum_total": 22, "decoded_byte_count": 16, "decoded_byte_mean": 62.6875, "decoded_byte_sd": 37.42445515635465, "decoded_byte_gini": 0.31162761714855436, "decoded_byte_entropy": 2.3933121229745242, "decoded_byte_max": 145, "decoded_byte_min": 2, "decoded_byte_range": 143, "decoded_digit_bytes": 8, "decoded_alpha_bytes": 2, "decoded_other_bytes": 6, "author_surname_count": 21, "author_surname_len_mean": 3.4761904761904763, "author_surname_len_sd": 0.7939681905015745, "author_surname_len_gini": 0.11611219830397912, "author_surname_len_max": 5, "author_initial_distinct": 11, "author_initial_entropy": 0.7595473914748635, "author_initial_gini": 0.38095238095238093, "author_initial_freq_max": 7, "query_char_len": 52, "query_token_count": 6, "query_digit_total": 16, "hitcount_digit_sum": 19, "hitcount_char_len": 5, "flag_total": 33, "flag_y_total": 12, "flag_n_total": 21, "flag_y_fraction": 0.36363636363636365, "record_count": 3, "record_key_count_mean": 26.0, "record_key_count_sd": 2.8284271247461903, "record_key_count_gini": 0.05128205128205128, "record_key_count_range": 6}

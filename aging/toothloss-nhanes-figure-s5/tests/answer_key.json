@@ -1,12 +1,1 @@
-{
-  "figure_id": "S5",
-  "n_panels": 3,
-  "west_color": "#2b6cb0",
-  "cn_color": "#c53030",
-  "grey_color": "#4a5568",
-  "font_size": 8.5,
-  "dpi": 300,
-  "fig_size": 7.4,
-  "gridspec_rows": 2,
-  "gridspec_cols": 2
-}
+{"call_total": 109, "call_with_kw_count": 39, "call_with_kw_fraction": 0.3577981651376147, "kw_total": 130, "kw_distinct": 38, "kw_mean_per_call": 1.1926605504587156, "kw_sd_per_call": 2.0608943645955557, "kw_gini_per_call": 0.7439661256175018, "kw_max_per_call": 12, "kw_freq_entropy": 1.6773472914105423, "kw_freq_gini": 0.4825910931174089, "kw_freq_max": 22, "kw_freq_mean": 3.4210526315789473, "kw_name_len_mean": 6.605263157894737, "kw_name_len_sd": 3.9903797054798957, "kw_name_len_gini": 0.28339274481023274, "kw_name_len_max": 15, "kw_name_vowel_mean": 2.236842105263158, "pos_mean_per_call": 1.2568807339449541, "pos_sd_per_call": 0.8059830139668771, "pos_gini_per_call": 0.2985334494073528, "pos_max_per_call": 3, "method_distinct": 44, "method_freq_entropy": 1.2923559945767447, "method_freq_gini": 0.30733471074380164, "method_freq_max": 8, "method_call_total": 88, "method_name_len_mean": 7.318181818181818, "rc_num_count": 4, "rc_num_mean": 152.325, "rc_num_sd": 147.70009097830643, "rc_num_gini": -0.012104053832266537, "rc_num_max": 300.0, "rc_num_min": 0.8, "axis_lim_count": 3, "axis_span_mean": 5.75, "axis_span_sd": 2.7949358967007933, "axis_span_gini": -0.41352657004830917, "axis_span_max": 9.6, "axis_span_min": 3.05, "axis_lo_mean": 0.2333333333333333, "axis_hi_mean": 5.983333333333333, "num_constant_count": 144, "num_abs_mean": 9.185694444444444, "num_abs_sd": 42.538828949149206, "num_abs_gini": 0.8266092857754862, "num_abs_entropy": 3.543206232963233, "num_abs_max": 300.0, "num_int_count": 54, "num_float_count": 90, "leading_digit_1_count": 33, "leading_digit_2_count": 9, "leading_digit_3_count": 11, "leading_digit_4_count": 4, "leading_digit_5_count": 11, "leading_digit_6_count": 14, "leading_digit_7_count": 23, "leading_digit_8_count": 3, "leading_digit_9_count": 12, "leading_digit_distinct": 9, "leading_digit_entropy": 1.9905206559911464, "str_constant_count": 169, "hex_color_count": 9, "hex_color_distinct": 6, "str_len_mean": 12.100591715976332, "str_len_sd": 34.313494674976404, "str_len_gini": 0.6266749612997498, "str_len_max": 361, "src_char_total": 9242, "src_line_total": 224, "src_cjk_char_total": 174, "src_cjk_fraction": 0.01882709370266176, "src_comment_line_count": 10, "func_count": 2, "func_arg_total": 4, "func_arg_mean": 2.0, "func_arg_sd": 2.0, "ast_node_total": 2071, "ast_distinct_node_types": 43, "ast_node_type_entropy": 2.960832988712504, "ast_call_total": 109, "ast_attribute_total": 103, "ast_keyword_total": 130}

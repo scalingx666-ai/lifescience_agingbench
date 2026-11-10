@@ -1,10 +1,1 @@
-{
-  "hit_count": 6128,
-  "query_string": "FOXO3 AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
-  "first_pmid": "42925474",
-  "first_journal": "Cell Biochem Biophys",
-  "second_pmid": "42941746",
-  "second_pmcid": "PMC13704433",
-  "third_pmid": "42815049",
-  "third_journal": "Poult Sci"
-}
+{"stream_char_total": 341, "alphabet_size": 24, "unigram_distinct": 24, "unigram_entropy": 2.920515779777022, "bigram_total": 340, "bigram_distinct": 159, "bigram_entropy": 4.834377650380655, "trigram_distinct": 262, "bigram_count_mean": 2.138364779874214, "bigram_count_sd": 1.6878328459869019, "bigram_count_gini": 0.34398816130225673, "bigram_count_max": 11, "bigram_count_entropy": 1.453832118920264, "cond_entropy": 1.9143574009179263, "entropy_rate": 1.9143574009179263, "perplexity": 3.769458793410909, "matrix_density": 0.2760416666666667, "out_degree_mean": 6.625, "out_degree_sd": 3.9771482664508917, "out_degree_gini": 0.24868972746331236, "out_degree_max": 17, "out_degree_min": 1, "out_degree_entropy": 2.4413026378076217, "stationary_sum": 1.0000000000000004, "stationary_max": 0.11754596436040726, "stationary_min": 0.002938534726299219, "stationary_mean": 0.041666666666666685, "stationary_sd": 0.03003063874482153, "stationary_gini": 0.31379668123504195, "stationary_entropy": 3.178053830347946, "stationary_nonzero": 24, "stationary_support": 24}

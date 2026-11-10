@@ -1,10 +1,1 @@
-{
-  "api_version": "6.9",
-  "hit_count": 22821,
-  "query_string": "senescent cell AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
-  "result_type": "lite",
-  "page_size": 3,
-  "first_pmid": "42953355",
-  "first_journal": "Front Immunol",
-  "second_pmid": "42902866"
-}
+{"query_token_count": 6, "query_and_count": 1, "query_bracket_count": 2, "query_colon_count": 1, "query_hyphen_count": 4, "query_term_count": 2, "query_term_distinct": 2, "query_term_len_mean": 6.5, "query_term_len_sd": 2.5, "query_term_len_gini": -0.8076923076923077, "query_term_len_max": 9, "query_term_len_min": 4, "query_term_len_range": 5, "query_date_count": 2, "window_span_days": 1095, "window_span_weeks": 156.42857142857142, "start_ordinal": 738886, "end_ordinal": 739981, "start_dow": 0, "end_dow": 3, "start_year": 2024, "end_year": 2026, "year_span": 2, "query_alnum_token_count": 12, "query_alnum_distinct": 11, "lev_pair_count": 66, "lev_dist_mean": 4.424242424242424, "lev_dist_sd": 2.1746515294556543, "lev_dist_gini": 0.23360315483603156, "lev_dist_entropy": 1.8833810741386565, "lev_dist_max": 9, "lev_dist_min": 0, "lev_dist_range": 9, "lev_dist_distinct": 9, "lev_norm_mean": 0.9194444444444444, "lev_norm_sd": 0.18309915152503628, "lev_norm_gini": 0.04305482731739254, "lev_norm_max": 1.0, "lev_norm_min": 0.0, "title_token_count": 16, "title_token_distinct": 15, "cross_lev_mean": 7.578125, "cross_lev_sd": 2.8548461402280507, "cross_lev_gini": 0.1985574169530355, "cross_lev_max": 12, "cross_lev_distinct": 12, "cross_lev_entropy": 2.205232113989096}

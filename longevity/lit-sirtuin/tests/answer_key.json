@@ -1,10 +1,1 @@
-{
-  "hit_count": 17354,
-  "query_string": "sirtuin AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
-  "first_pmid": "42909727",
-  "first_pmcid": "PMC13694524",
-  "first_doi": "10.1186/s43556-026-00631-0",
-  "second_doi": "10.4103/nrr.nrronline-d-26-00955",
-  "second_journal": "Neural Regen Res",
-  "third_doi": "10.1080/14728222.2026.2755133"
-}
+{"ols_b0": -0.14392581335843144, "ols_b1": 1.531456592150881, "ols_b2": -0.7104876105642419, "ols_b3": -0.9477093510457381, "ols_coef_norm": 1.9413962996302674, "ols_sse": 58.37234194863716, "ols_sst": 71.99115576713048, "ols_r2": 0.18917342933826553, "resid_mean": 1.2900478807264143e-16, "resid_sd": 0.9067224830390006, "resid_lag1": -0.06484352724231987, "xtx_trace": 731.951488278087, "xtx_frobenius": 636.01109276704, "xtx_diag_energy": 222113.99167702754, "xtx_offdiag_energy": 182396.1184456968, "xtx_offdiag_ratio": 0.4509062045207216, "ridge_sse_l1": 58.372447907615125, "ridge_sse_l2": 58.38241727696644, "ridge_sse_l3": 59.01868902231008, "ridge_sse_l4": 65.64621790011012, "ridge_best_sse": 58.372447907615125, "gd_init_sse": 71.79090223235802, "gd_final_sse": 60.35588620997956, "gd_total_drop": 11.435016022378463, "gd_mean_sse": 64.26670706944869, "gd_beta_norm": 1.194718037202145, "gd_last_step_delta": 0.018344765827521314, "loocv_press": 64.72596979643482, "loocv_mse": 0.911633377414575, "loocv_r2": 0.10091775709500095, "n_obs": 72.0, "n_samples": 71.0, "n_features": 4.0}

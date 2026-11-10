@@ -1,13 +1,1 @@
-{
-  "n_cohorts": 3,
-  "lag_window": "1–12",
-  "primary_metric": "bioage_accel_clean",
-  "n_cont_vars": 6,
-  "n_cat_vars": 4,
-  "star_p001": "***",
-  "star_p01": "**",
-  "star_p05": "*",
-  "cont_summary": "mean (SD)",
-  "cat_test": "chi-square",
-  "output_file": "table1_bioage_analysis.md"
-}
+{"str_constant_count": 152, "fmt_placeholder_total": 0, "fmt_colon_count": 0, "fmt_plain_count": 0, "fmt_colon_fraction": 0.0, "fmt_spec_distinct": 0, "fmt_spec_freq_entropy": 0.0, "fmt_spec_freq_gini": 0.0, "fmt_spec_freq_max": 0, "fmt_spec_char_mean": 0.0, "fmt_spec_char_sd": 0.0, "fmt_spec_char_gini": 0.0, "fmt_spec_char_max": 0, "fmt_spec_dot_count": 0, "fmt_spec_type_f_count": 0, "fmt_spec_type_g_count": 0, "fmt_spec_type_d_count": 0, "fmt_spec_type_s_count": 0, "pct_spec_total": 28, "pct_spec_distinct": 9, "pct_spec_freq_entropy": 1.5810937501718236, "pct_spec_freq_gini": 0.4444444444444444, "pct_spec_freq_max": 10, "pct_spec_char_mean": 1.7857142857142858, "pct_spec_char_sd": 1.0809104250301114, "pct_spec_dot_count": 8, "fstring_count": 0, "formatted_value_total": 0, "formatted_value_mean_per_fstring": 0.0, "formatted_value_sd": 0.0, "formatted_value_gini": 0.0, "formatted_value_max": 0, "conversion_none_count": 0, "conversion_repr_count": 0, "conversion_str_count": 0, "conversion_ascii_count": 0, "func_count": 8, "func_private_count": 6, "func_arg_total": 10, "func_arg_mean": 1.25, "func_arg_sd": 0.6614378277661477, "func_arg_gini": 0.275, "func_arg_max": 2, "num_constant_count": 29, "num_constant_mean": 11.657275862068968, "num_constant_sd": 28.345851892474624, "num_constant_gini": 0.8574228952150954, "num_constant_max": 100, "num_constant_entropy": 1.6815302168987611, "src_char_total": 7921, "src_line_total": 230, "src_cjk_char_total": 187, "src_cjk_fraction": 0.023608130286579977, "src_comment_line_count": 3, "src_avg_line_len": 33.44347826086957, "src_line_len_gini": 0.41958669651133873, "ast_node_total": 1699, "ast_distinct_node_types": 49, "ast_node_type_entropy": 3.0485906199667943, "ast_node_type_gini": 0.7682069885046426, "ast_call_total": 120, "ast_compare_total": 38}

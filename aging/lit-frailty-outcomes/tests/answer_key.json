@@ -1,10 +1,20 @@
 {
-  "version": "6.9",
-  "hit_count": 58416,
-  "first_pmid": "42961886",
-  "first_pmcid": "PMC13722203",
-  "first_doi": "10.1371/journal.pone.0361499",
-  "second_pmid": "42936921",
-  "second_doi": "10.1002/jcsm.70373",
-  "second_journal": "J Cachexia Sarcopenia Muscle"
+  "cited_total": 1,
+  "doi_digit_sum": 69,
+  "haspdf_coverage": 1.0,
+  "hitcount_per_page": 19472.0,
+  "index_lag_max": 1,
+  "index_lag_mean": -16.5,
+  "max_issn_per_record": 2,
+  "mean_authors_per_record": 8.0,
+  "mean_title_word_length": 6.5,
+  "n_authors_total": 16,
+  "n_records": 2,
+  "oa_exact_binom_neglog10p": 0.3010299956639812,
+  "pmcid_coverage": 1.0,
+  "pubtype_union_size": 3,
+  "pubyear_span": 0,
+  "query_term_count": 5,
+  "title_word_count": 22,
+  "total_issn_count": 3
 }

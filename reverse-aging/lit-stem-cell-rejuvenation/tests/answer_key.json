@@ -1,10 +1,1 @@
-{
-  "hit_count": 3137,
-  "query_string": "stem cell rejuvenation AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
-  "first_pmid": "42573713",
-  "first_doi": "10.1007/s12015-026-11211-8",
-  "second_pmcid": "PMC13555514",
-  "second_journal": "J Cosmet Dermatol",
-  "third_pmid": "42802514",
-  "third_doi": "10.1111/exd.70367"
-}
+{"n_obs": 88.0, "n_states": 2.0, "n_symbols": 4.0, "obs_mean": 1.25, "obs_sd": 1.0686652677735224, "obs_entropy": 1.3254548412275868, "pi_state0": 0.43333333333333335, "pi_state1": 0.5666666666666667, "a00": 0.3076923076923077, "a01": 0.6923076923076923, "a10": 0.5384615384615384, "a11": 0.46153846153846156, "b_entropy_state0": 0.8410669372554599, "b_entropy_state1": 0.8052257228775993, "forward_loglik": -114.26992968589586, "forward_final_entropy": 0.11832236821322926, "forward_mean_scale": 0.28904657890237706, "viterbi_score": -117.80573122783846, "viterbi_transitions": 53.0, "viterbi_transition_rate": 0.6091954022988506, "viterbi_state0_frac": 0.4318181818181818, "viterbi_max_run": 5.0, "post_mean_maxprob": 0.9611089334337187, "post_mean_entropy": 0.15655379030534192, "post_state0_occupancy": 0.4330327038225287, "post_state1_occupancy": 0.5669672961774714, "baumwelch_a_delta": 0.037533388873826436, "stationary0": 0.4352863353110453, "stationary1": 0.5647136646889537}

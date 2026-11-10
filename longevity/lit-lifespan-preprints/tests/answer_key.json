@@ -1,10 +1,1 @@
-{
-  "hit_count": 97306,
-  "first_source": "AGR",
-  "first_id": "IND609533934",
-  "first_journal": "Journal of insect behavior.",
-  "second_doi": "10.64898/2026.10.28.762418",
-  "second_pub_date": "2026-10-30",
-  "third_doi": "10.21203/rs.3.rs-11265326/v1",
-  "third_pub_date": "2026-10-16"
-}
+{"num_count": 12, "num_raw_sum": 612238110, "num_raw_mean": 51019842.5, "y_mean": 0.1541874201361355, "y_sd": 0.3606565490869187, "y_min": 0.0, "y_max": 0.9999999983594022, "y_range": 0.9999999983594022, "node_step": 0.08333333333333333, "signal_mean": 1.708035422500241e-17, "signal_sd": 0.36065654908691874, "d1_mean": -1.850371707708594e-17, "d1_sd": 0.4082502734522209, "d1_absmax": 0.9999999983594022, "d2_mean": 0.18181817570322656, "d2_sd": 0.3857022791381274, "monotone_up_fraction": 0.3333333333333333, "trap_integral": -0.07048438151860553, "riemann_left": -0.07048438151860556, "riemann_right": -0.07048438151860553, "riemann_gap": 2.7755575615628914e-17, "simpson_integral": -0.09826254953078611, "simpson_trap_diff": -0.027778168012180582, "lagrange_at_mid": -0.15608790426273453, "lagrange_xstar": 0.125, "arc_length": 2.840383058326436, "richardson_trap": -0.07048438151860552, "richardson_gain": 1.3877787807814457e-17, "n_sign_roots": 2, "first_root_x": 0.07048438614431991, "root_mean_x": 0.5000000022549405, "deriv_mean": -3.489998835381026e-08, "deriv_sd": 2.55841685835869, "deriv_absmax": 5.999999970469241}

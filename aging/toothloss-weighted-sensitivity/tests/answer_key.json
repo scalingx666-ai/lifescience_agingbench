@@ -1,11 +1,18 @@
 {
-  "hrs_ols_beta": 3.483157834720522,
-  "hrs_ols_n": 9526,
-  "hrs_wls_beta": 2.6167671250371924,
-  "hrs_wls_n": 4304,
-  "elsa_ols_beta": 2.943079803559994,
-  "elsa_wls_beta": 2.9095588293345975,
-  "elsa_wls_n": 4184,
-  "charls_ols_beta": 0.04410522883094696,
-  "charls_wls_n": 8449
+  "max_abs_beta_shift": 0.8663907096833294,
+  "max_ci_se_gap": 1.1102230246251565e-16,
+  "mean_beta_shift": -0.3174549225757018,
+  "mean_ci_implied_se": 0.8174046873855875,
+  "mean_n_retention": 0.7156910876607551,
+  "mean_se_ratio": 1.4072480463201078,
+  "min_neglog10p_wls": 2.119064342202736,
+  "n_cohorts": 3,
+  "n_models": 2,
+  "n_rows": 6,
+  "ols_wls_beta_corr": 0.9718656319418123,
+  "paired_stouffer_neglog10p": 0.20004805535290895,
+  "paired_stouffer_z": -0.48047801546753405,
+  "pooled_ols_beta": 2.156780955703821,
+  "pooled_wls_beta": 1.8393260331281194,
+  "w_cov_mean": 0.742355162212902
 }

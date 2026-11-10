@@ -1,10 +1,1 @@
-{
-  "hit_count": 3746,
-  "query_string": "healthspan AND FIRST_PDATE:[2024-01-01 TO 2026-12-31]",
-  "first_pmid": "42879069",
-  "first_doi": "10.1007/s11357-026-02603-2",
-  "second_pmid": "42966205",
-  "second_journal": "Geriatr Nurs",
-  "third_pmid": "42844554",
-  "third_doi": "10.1007/s11357-026-02577-1"
-}
+{"signal_length": 260, "signal_mean": 104.4, "signal_sd": 17.349617597204585, "signal_gini": 0.06240138067061144, "zero_crossing_count": 108, "zero_crossing_rate": 0.4153846153846154, "autocorr_lag1": 0.20994096844052357, "autocorr_lag2": 0.15843070785211508, "autocorr_lag3": 0.09149296693306751, "autocorr_lag4": 0.06500629809254123, "autocorr_lag5": 0.05183974759616638, "dft_N": 256, "dc_power": 2776805.640625, "total_energy": 2835074, "parseval_energy": 2835074.0, "parseval_residual": 0.0, "spectral_total": 2835074.0, "dominant_freq": 2, "dominant_power": 1709.4826750063664, "dominant_power_fraction": 0.029338095208835596, "spectral_entropy": 0.20185844783602033, "spectral_centroid": 2.6307426190638505, "spectral_flatness": 0.010450051756380925, "low_band_energy": 2805911.6953125005, "high_band_energy": 29162.304687499036, "band_ratio": 96.21707630382542, "power_gini": 0.9796359456228374, "power_sd": 173197.04558475644, "power_max": 2776805.640625, "power_mean": 11074.5078125}

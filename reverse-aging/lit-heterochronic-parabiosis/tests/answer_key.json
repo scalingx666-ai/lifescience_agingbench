@@ -1,10 +1,1 @@
-{
-  "hit_count": 312,
-  "first_pmid": "42622930",
-  "first_doi": "10.1007/s11357-026-02424-3",
-  "first_journal": "Geroscience",
-  "second_id": "PPR1316188",
-  "second_doi": "10.20944/preprints202609.0740.v1",
-  "third_pmid": "42664052",
-  "third_journal": "Cell Rep"
-}
+{"url_char_len": 214, "url_param_count": 5, "url_param_key_distinct": 5, "url_param_key_len_mean": 7.8, "url_param_val_len_mean": 22.0, "url_canon_len": 214, "url_percent_count": 5, "url_percent_byte_count": 5, "url_percent_byte_sum": 364, "byte_total": 305, "byte_distinct": 61, "byte_entropy": 3.8454599142621104, "byte_mean": 83.09508196721312, "byte_sd": 27.26772202325569, "byte_gini": 0.17962954338466633, "byte_max": 122, "byte_min": 32, "adler32_value": 3064685313, "fletcher32_value": 2990564096, "rk_hash": 2269099549412732651, "crc8_value": 174, "window_count": 302, "window_hash_distinct": 244, "window_collision_count": 58, "window_hash_entropy": 5.444185053980991, "window_hash_gini": 0.17727899282218115, "window_hash_mean": 2550591.741721854}

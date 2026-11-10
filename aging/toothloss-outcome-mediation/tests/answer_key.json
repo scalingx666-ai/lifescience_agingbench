@@ -1,11 +1,19 @@
 {
-  "charls_crp_nie": 0.019377408391520728,
-  "charls_wbc_nie": -0.08961384775944814,
-  "charls_wbc_prop": -0.5822341422248026,
-  "charls_crp_n": 11248,
-  "elsa_crp_nie": 0.19435409314854565,
-  "elsa_crp_n": 4380,
-  "hrs_crp_nie": 0.3418346671365072,
-  "hrs_crp_prop": 0.10006185790200464,
-  "hrs_crp_n": 9521
+  "max_delta_se_a": 0.05718630855200955,
+  "max_nie_identity_gap": 0.0,
+  "max_prop_identity_gap": 0.0,
+  "max_te_identity_gap": 0.0,
+  "n_cohorts": 3,
+  "n_mediators": 4,
+  "n_negative_prop": 1,
+  "n_positive_nie": 7,
+  "n_rows": 8,
+  "nie_I2": 71.43837337017577,
+  "nie_Q": 24.508408049458062,
+  "nie_fe_pooled": 0.02666871219081772,
+  "nie_re_pooled": 0.06395149792960272,
+  "prop_mean": -0.031388891900176095,
+  "sobel_neglog10p_row0": 0.525164918466111,
+  "sobel_se_nie_row0": 0.018635402081373636,
+  "sobel_z_row0": 1.039817027124343
 }

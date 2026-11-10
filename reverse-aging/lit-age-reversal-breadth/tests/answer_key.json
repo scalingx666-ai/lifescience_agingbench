@@ -1,10 +1,1 @@
-{
-  "hit_count": 35769,
-  "first_pmid": "42966855",
-  "first_pmcid": "PMC13723929",
-  "first_journal": "Neurol Res Pract",
-  "first_pub_date": "2026-10-29",
-  "second_id": "PMC13669903",
-  "second_journal": "Cureus",
-  "third_source": "PPR"
-}
+{"n_obs": 64.0, "sig_mean": 98.953125, "sig_sd": 24.178651280300457, "haar_total_energy": 64.0, "haar_levels": 7.0, "d1_energy": 40.13891873674856, "d2_energy": 14.834320087565477, "d3_energy": 8.232664912962804, "d4_energy": 0.31784163294078915, "d5_energy": 0.47173770782079794, "d6_energy": 0.004516921961570243, "haar_energy_entropy": 0.9584714875081691, "haar_coarse_abs": 1.521027069349907e-16, "d1_mean_abs": 0.7320411056590508, "detail_total_abs": 45.61126965619154, "detail_max_abs": 2.602812820121069, "detail_gini": 0.47909227505385127, "detail_nonzero_frac": 0.9841269841269841, "detail_small_frac": 0.6349206349206349, "hurst_rs": 0.20575171768486702, "hurst_rs_r2": 0.9483196443001272, "hurst_rs_intercept": 0.04660980825685801, "hurst_variance": -1.4489233518717155, "hurst_variance_r2": 0.9073334924316276, "hurst_variance_intercept": 1.6670526626655784, "hurst_gap": 1.6546750695565826, "acf_lag1": -0.19043784852567347, "acf_lag2": -0.045002708754167266, "acf_abs_mean": 0.11298778586256882, "acf_sd": 0.11420670689177259, "acf_ljung_box": 9.3041908974263, "wavelet_energy_ratio": 1.0, "top_level_share": 0.6271706052616962, "coarse_energy_share": 3.6148802276486985e-34}
